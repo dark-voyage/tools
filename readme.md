@@ -31,8 +31,6 @@ when you install my dotfiles.
 
 Just clone the repository and add the root directory of repository to your $PATH variable.
 
-```bash
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
