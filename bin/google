@@ -1,10 +1,11 @@
 #!/bin/bash
 
-# Start googling from terminal
+# If no argument is supplied, exit
 if [ -z "$1" ]; then
     echo "No argument supplied"
-    return
+    exit 1
 fi
-echo "Searching for $@"
-search_string="$@"
+
+echo "Searching for \"$*\""
+search_string="$*"
 open "https://www.google.com/search?q=$search_string"
