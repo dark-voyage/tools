@@ -1,14 +1,14 @@
 <header>
-<img src="https://www.katsuki.moe/favicons/pinned.svg" alt="logo" height="100" align="left">
+<img src="https://www.orzklv.uz/favicons/logo.png" alt="logo" height="100" align="left">
 <h1 style="display: inline">Tsūru!</h1>
 
 Tools and scripts to make my life easier. Sometimes tougher :D
 
 </header>
 
-[![GitHub top language](https://img.shields.io/github/languages/top/katsuki-yuri/tools?style=flat-square&logo=github)](https://github.com/katsuki-yuri/tools)
-[![Channel](https://img.shields.io/badge/Chat-grey?style=flat-square&logo=telegram)](https://t.me/yurionblog)
-[![Shellcheck CI](https://github.com/katsuki-yuri/tools/actions/workflows/test.yml/badge.svg)](https://github.com/katsuki-yuri/tools/actions/workflows/test.yml)
+[![GitHub top language](https://img.shields.io/github/languages/top/orzklv/tools?style=flat-square&logo=github)](https://github.com/orzklv/tools)
+[![Channel](https://img.shields.io/badge/Chat-grey?style=flat-square&logo=telegram)](https://t.me/orzklvb)
+[![Shellcheck CI](https://github.com/orzklv/tools/actions/workflows/test.yml/badge.svg)](https://github.com/orzklv/tools/actions/workflows/test.yml)
 
 ## About
 

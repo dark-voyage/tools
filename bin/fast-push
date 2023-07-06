@@ -8,7 +8,7 @@ printf "\nexport GITHUB_ACCESS_TOKEN=\"%s\"" "$GITHUB_ACCESS_TOKEN" >> ~/.zshrc
 # and add to ./.fast-push, if it does, read from ./.fast-push
 if [ ! -f ./.fast-push ]; then
   echo "No repository name found, please enter your repository name"
-  echo "Example: [repo-owner/repo-name] like... katsuki-yuri/tools"
+  echo "Example: [repo-owner/repo-name] like... orzklv/tools"
   read -r -p 'Enter your repository location: ' REPOSITORY_LOCATION
   printf "%s" "REPOSITORY_LOCATION" > ./.fast-push
 else
