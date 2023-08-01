@@ -1,6 +1,6 @@
 <header>
 <img src="https://www.orzklv.uz/favicons/logo.png" alt="logo" height="100" align="left">
-<h1 style="display: inline">Tsūru!</h1>
+<h1 style="display: inline">Tools!</h1>
 
 Tools and scripts to make my life easier. Sometimes tougher :D
 
